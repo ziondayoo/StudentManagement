@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sTmmaU0GEwzQskGFyGIVzRK+u+/fade6/JWieHyu4Y6HCgHppa8pUNvltqSEuAswSCN6cM2eL5oPvbUhA10c9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Utils\\StudentManagement.Utils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Decagon\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

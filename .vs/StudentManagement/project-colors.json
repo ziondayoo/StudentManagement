@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f48c47ba-2026-43a9-9b9e-fab44e299b75": {
+      "ProjectGuid": "f48c47ba-2026-43a9-9b9e-fab44e299b75",
+      "DisplayName": "StudentManagement",
+      "ColorIndex": 0
+    },
+    "b3ad7ac8-b50c-4024-a1aa-a2ab4130f503": {
+      "ProjectGuid": "b3ad7ac8-b50c-4024-a1aa-a2ab4130f503",
+      "DisplayName": "StudentManagement.Models",
+      "ColorIndex": 1
+    },
+    "11f0da52-d23b-4a4b-96e0-2d77bca55ee2": {
+      "ProjectGuid": "11f0da52-d23b-4a4b-96e0-2d77bca55ee2",
+      "DisplayName": "StudentManagement.Data",
+      "ColorIndex": 2
+    },
+    "bdc74385-d9fd-4df2-8426-85f1c0e9c080": {
+      "ProjectGuid": "bdc74385-d9fd-4df2-8426-85f1c0e9c080",
+      "DisplayName": "StudentManagement.Web",
+      "ColorIndex": 3
+    },
+    "be56a431-0dab-4942-820a-de99da49e72e": {
+      "ProjectGuid": "be56a431-0dab-4942-820a-de99da49e72e",
+      "DisplayName": "StudentManagement.Core",
+      "ColorIndex": 4
+    },
+    "640de755-3e62-4662-8bad-a0137972daad": {
+      "ProjectGuid": "640de755-3e62-4662-8bad-a0137972daad",
+      "DisplayName": "StudentManagement.Dtos",
+      "ColorIndex": 5
+    },
+    "78ea7f74-d1a6-4bd8-8102-07f11ce8823b": {
+      "ProjectGuid": "78ea7f74-d1a6-4bd8-8102-07f11ce8823b",
+      "DisplayName": "StudentManagement.Utils",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

@@ -1,0 +1,311 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement\\StudentManagement.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Core\\StudentManagement.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Core\\StudentManagement.Core.csproj",
+        "projectName": "StudentManagement.Core",
+        "projectPath": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Core\\StudentManagement.Core.csproj",
+        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Data\\StudentManagement.Data.csproj": {
+                "projectPath": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Data\\StudentManagement.Data.csproj"
+              },
+              "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Dtos\\StudentManagement.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Dtos\\StudentManagement.Dtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Data\\StudentManagement.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Data\\StudentManagement.Data.csproj",
+        "projectName": "StudentManagement.Data",
+        "projectPath": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Data\\StudentManagement.Data.csproj",
+        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Models\\StudentManagement.Models.csproj": {
+                "projectPath": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Models\\StudentManagement.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Dtos\\StudentManagement.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Dtos\\StudentManagement.Dtos.csproj",
+        "projectName": "StudentManagement.Dtos",
+        "projectPath": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Dtos\\StudentManagement.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Models\\StudentManagement.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Models\\StudentManagement.Models.csproj",
+        "projectName": "StudentManagement.Models",
+        "projectPath": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Models\\StudentManagement.Models.csproj",
+        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement\\StudentManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+        "projectName": "StudentManagement",
+        "projectPath": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Core\\StudentManagement.Core.csproj": {
+                "projectPath": "C:\\Users\\Decagon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.Core\\StudentManagement.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
